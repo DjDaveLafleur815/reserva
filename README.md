@@ -41,4 +41,4 @@ reserva/
 ├── api/                 # Backend FastAPI
 ├── gui/                 # Application Flutter
 ├── docker-compose.yml
-└── README.md
+└── README.md# reserva
